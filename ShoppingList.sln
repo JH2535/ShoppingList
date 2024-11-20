@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList", "ShoppingList.csproj", "{F5FEBC4D-3BCE-4351-B5CA-F2CA3B106EEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList", "ShoppingListSrc\ShoppingList.csproj", "{F5FEBC4D-3BCE-4351-B5CA-F2CA3B106EEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListTest", "..\ShoppingListTest\ShoppingListTest.csproj", "{1CD5C7BB-FE92-4AF3-AB45-E3A569710874}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListTest", "ShoppingListTest\ShoppingListTest.csproj", "{1CD5C7BB-FE92-4AF3-AB45-E3A569710874}"
 	ProjectSection(ProjectDependencies) = postProject
 		{F5FEBC4D-3BCE-4351-B5CA-F2CA3B106EEF} = {F5FEBC4D-3BCE-4351-B5CA-F2CA3B106EEF}
 	EndProjectSection
